@@ -1,5 +1,5 @@
 <div>
-<h1> My Dotfiles</h1>
+<h1> My ✨Dotfiles✨</h1>
 </div>
 <body>
 this is where i keep my config files for my linux setups <br>
